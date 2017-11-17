@@ -1,2 +1,4 @@
 info:
   profile: dev
+  api:
+    url: http://test.z3quant.com

@@ -1,2 +1,4 @@
 info:
   profile: default
+  api:
+      url: http://www.z3quant.com
